@@ -1,4 +1,4 @@
 # midterm_template
 
-nguyenm46
+Khue Nguyen
 nguyenm46@student.douglascollege.ca
